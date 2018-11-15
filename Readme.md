@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyFilterController.cs](./CS/AccessActionControl.Module.Win/MyFilterController.cs)
+* [MyDomainObject.cs](./CS/AccessActionControl.Module/MyDomainObject.cs)
+<!-- default file list end -->
 # OBSOLETE - How to customize the settings of a toolbar item created for an Action
 
 
